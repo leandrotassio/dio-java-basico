@@ -1,3 +1,2 @@
 # dio-java-basico
-repositório pra armazenar o conteúdo do de Java básico
-eae
+repositório pra armazenar o conteúdo de Java básico
